@@ -5,6 +5,12 @@
       "allowedRoles": [
         "admin"
       ]
+    },
+    {
+      "route": "./shen",
+      "allowedRoles": [
+        "admin"
+      ]
     }
   ]
 }
